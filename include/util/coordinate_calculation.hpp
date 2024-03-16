@@ -11,7 +11,6 @@
 #include <numeric>
 #include <utility>
 #include <vector>
-#include <cstdint>
 
 namespace osrm
 {
